@@ -1,0 +1,64 @@
+ROTAS JÁ DOCUMENTADAS:
+
+CLIENTE:
+"cliente":
+GET:OK
+POST:OK
+PUT:OK
+DELETE:OK
+
+ESTRUTURA: **Não liberado**
+"estrutura"
+GET:OK
+POST:OK
+PUT:OK
+DELETE:OK
+
+CONTRATOS:
+"cliente_contrato":
+GET:OK
+POST:OK
+PUT:OK
+DELETE:OK
+
+PRODUTOS:
+"produtos":
+GET:OK
+POST:OK
+PUT:OK
+DELETE:OK
+
+Fornecedor:
+"fornecedor":
+GET: OK
+POST: OK
+PUT: OK
+DELETE: OK
+
+CONDOMINIOS: **Não liberado**
+"cliente_condominio":
+GET:OK
+POST:OK
+PUT:OK
+DELETE:OK
+
+TIPOS DE CLIENTES: **Não liberado**
+"cliente_condominio":
+GET:OK
+POST:OK
+PUT:OK
+DELETE:OK
+
+TIPO DE COBRANÇA:
+"cliente_contrato_tipo"
+GET:OK
+POST:OK
+PUT:OK
+DELETE:OK
+
+PLANOS DE VENDA:
+"vd_contratos"
+GET:OK
+POST:OK
+PUT:OK
+DELETE:OK
